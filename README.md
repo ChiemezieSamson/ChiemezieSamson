@@ -38,7 +38,7 @@ _**Libraries & Frameworks**_
 _**Tools & Platforms**_
   + ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## [✍️Favorite Dev Quote](https://github.com/ChiemezieSamson/ChiemezieSamson/edit/main/README.md#%EF%B8%8Ffavorite-dev-quote)
+## [Favorite Quote](https://github.com/ChiemezieSamson/ChiemezieSamson/edit/main/README.md#%EF%B8%8Ffavorite-dev-quote)
 ---
 > _You can do anything you set your mind to. Even if it sounds cony dont let anyone tell you , you ain't good enough._ ✌
 
