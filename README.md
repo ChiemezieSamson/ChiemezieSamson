@@ -52,7 +52,7 @@ _**Others**_
 
 ## [Favorite Quote](https://github.com/ChiemezieSamson/ChiemezieSamson/edit/main/README.md#%EF%B8%8Ffavorite-dev-quote)
 ---
-> _You can do anything you set your mind to. Even if it sounds cony dont let anyone tell you , you ain't good enough._ ✌
+> _ Even if it sounds cony dont let anyone tell you , you ain't good enough._ You can do anything you set your mind to.✌
 
 [— Samson](https://github.com/ChiemezieSamson/ChiemezieSamson/edit/main/README.md#-samson)
 ---
