@@ -13,9 +13,9 @@
 ## [About me](https://github.com/ChiemezieSamson/ChiemezieSamson/edit/main/README.md#about-me)
 ### My mindset is all about personal growth and collaborating with exceptional individuals. 
     
-Above 4years Experienced and highly skilled  Front-End Developer, well-versed in a wide range of development tools, frameworks, and platforms, I have cultivated a strong foundation in this dynamic field. My commitment to excellence and dedication for teamwork have been instrumental in my professional journey. I excel in independent work, possess effective time management skills, and consistently deliver projects with unwavering quality and timeliness. My strength lies in effective communication and my ability to collaborate harmoniously with diverse teams, valuing diverse perspectives and constructive input.
+Front-End Developer with over four years of rich experience, I bring a wealth of expertise across diverse development tools, frameworks, and platforms. My journey in this dynamic field has equipped me with a strong foundation, enabling me to navigate and excel in a rapidly evolving tech landscape. Throughout my career, I've honed my skills, staying abreast of the latest industry trends and technologies to deliver high-quality solutions. My experience encompasses a wide spectrum of projects, contributing to my adaptable and versatile approach in crafting innovative and efficient frontend solutions."
 
-I am confident that my qualifications and expertise position me as a top-tier candidate for any Front-End Development role. I eagerly anticipate the opportunity to contribute my skills and knowledge to your organization, and I am enthusiastic about discussing my capabilities in greater detail during an interview.
+My commitment to excellence and dedication for teamwork have been instrumental in my professional journey. I excel in independent work, possess effective time management skills, and consistently deliver projects with unwavering quality and timeliness. My strength lies in effective communication and my ability to collaborate harmoniously with diverse teams, valuing diverse perspectives and constructive input.
 
 * 📰 To Know More About Me [Portfolio](https://www.nebe-samson.com/)
 * 📄 Find my resume on [LinkedIn](https://www.linkedin.com/in/chiemezie-samson-nebeolisa-32897310b/)
