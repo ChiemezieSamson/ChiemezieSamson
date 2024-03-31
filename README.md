@@ -11,7 +11,7 @@
 </picture>
 
 ## [About me](https://github.com/ChiemezieSamson/ChiemezieSamson/edit/main/README.md#about-me)
-### My mindset is all about collaborating with exceptional individuals and personal growth. 
+### My mindset is all about collaborating with exceptional individuals and personal growth
     
 Front-End Developer with over four years of rich experience, I bring a wealth of expertise across diverse development tools, frameworks, and platforms like: JavaScript , TypeScript, Node.js , React, Next.js, React Redux and many more. My journey in this dynamic field has equipped me with a strong foundation, enabling me to navigate and excel in a rapidly evolving tech landscape. Throughout my career, I've honed my skills, staying abreast of the latest industry trends and technologies to deliver high-quality solutions. My experience encompasses a wide spectrum of projects, contributing to my adaptable and versatile approach in crafting innovative and efficient frontend solutions.
 
