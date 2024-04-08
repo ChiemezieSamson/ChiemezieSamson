@@ -17,7 +17,7 @@ Front-End Developer with over four years of rich experience, I bring a wealth of
 
 My commitment to excellence and dedication for teamwork have been instrumental in my professional journey. I excel in independent work, possess effective time management skills, and consistently deliver projects with unwavering quality and timeliness. My strength lies in effective communication and my ability to collaborate harmoniously with diverse teams, valuing diverse perspectives and constructive input.
 
-* 📰 To Know More About Me [Portfolio](https://www.nebe-samson.com/)
+* 📰 About Me [Portfolio](https://www.nebe-samson.com/)
 * 📄 Find my resume on [LinkedIn](https://www.linkedin.com/in/chiemezie-samson-nebeolisa-32897310b/)
   
 
