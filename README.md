@@ -19,6 +19,7 @@ My commitment to excellence and dedication for teamwork have been instrumental i
 
 * 📰 About Me [Portfolio](https://www.nebe-samson.com/)
 * 📄 Find my resume on [LinkedIn](https://www.linkedin.com/in/chiemezie-samson-nebeolisa-32897310b/)
+* ⚒️ Current work [PNews](https://p-news.netlify.app/)
   
 
 📍 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SamsonChiemezie?label=FOLLOW%20%40SamsonChiemezie&labelColor=blue&color=yellow)](https://twitter.com/SamsonChiemezie)
